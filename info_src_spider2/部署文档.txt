@@ -1,0 +1,27 @@
+﻿
+##1.环境需求
+python2.7
+
+##2.进入文件夹
+
+cd info_src_spider
+
+
+##3.安装依赖
+
+sudo pip install -r requirement.text
+
+
+##4.修改配置文件settings.py
+
+数据库配置文件
+
+
+
+##5.运行三个程序
+
+python src_name_spider
+
+python backup_data_spider
+
+python parent_id_spider
